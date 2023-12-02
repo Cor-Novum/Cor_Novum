@@ -43,7 +43,7 @@ Manna	Ancients_Deck	Manna
 Bulrushes	Ancients_Deck	Bulrushes
 Olive Branch	Ancients_Deck	Olive_Branch
 Wicker	Ancients_Deck	Wicker
-Shepard's Staff	Ancients_Deck	Shepard's_Staff
+Shepard's Staff	Ancients_Deck	Shepards_Staff
 Red Sea	Ancients_Deck	Red_Sea
 Cleanse	Ancients_Deck	Cleanse
 Rainbow	Ancients_Deck	Rainbow
@@ -110,7 +110,8 @@ Swine	Uncommon	Swine
 The Ant	Uncommon	The_Ant
 Uriah	Uncommon	Uriah
 Frog Plague	Uncommon	Frog_Plague
-Lamb Eunuch	Uncommon	Lamb_Eunuch
+Lamb	Uncommon	Lamb 
+Eunuch	Uncommon	Eunuch
 Simon Peter	Uncommon	Simon_Peter
 Paul	Uncommon	Paul
 Golden Ox	Uncommon	Golden_Ox
@@ -166,7 +167,7 @@ Wrath Water	Tournament_Cards	Wrath_Water
 Azariah	Tournament_Cards	Azariah
 Mishael	Tournament_Cards	Mishael
 Hananiah	Tournament_Cards	Hananiah
-Nebuchadnezzar	Tournament_Cards	Nebuchadnezzar
+Nebuchadnezzar	Tournament_Cards	Nebuchadnezzar_K, Nebuchadnezzar_F
 Tubalcain	Expansion_Packs	Tubalcain
 Stoning	Expansion_Packs	Stoning
 Handwritten	Expansion_Packs	Handwritten
@@ -174,7 +175,7 @@ Millstone	Expansion_Packs	Millstone
 Living Water	Expansion_Packs	Living_Water
 Angel of Death	Expansion_Packs	Angel_of_Death
 Passover	Expansion_Packs	Passover
-Resurection	Expansion_Packs	Resurection
+Resurrection	Expansion_Packs	Resurrection
 Crown of Thorns	Expansion_Packs	Crown_of_Thorns
 Appearance	Expansion_Packs	Appearance
 Amos, Prophet	Expansion_Packs	Amos,_Prophet
@@ -187,4 +188,4 @@ Unjust Scourge	Expansion_Packs	Unjust_Scourge
 Broken Tablets	Expansion_Packs	Broken_Tablets
 Honey Locust	Expansion_Packs	Honey_Locust
 Oversized Armor	Expansion_Packs	Oversized_Armor
-Joseph's cost	Champion_Card	Joseph's_cost
+Joseph's Coat	Champion_Card	Josephs_Coat

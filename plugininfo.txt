@@ -1,30 +1,38 @@
 <plugin>
+
 <deckzone>
 	<label>deck</label>
-<shuffle>yes</shuffle>
+	<shuffle>yes</shuffle>
 </deckzone>
+
 <deckzone>
 	<label>creaturezone</label>
 </deckzone>
+
 <gamezone>
 	<label>Hand</label>
-<visibletoowner>yes</visibletoowner>
+	<visibletoowner>yes</visibletoowner>
 </gamezone>
+
 <gamezone>
 	<label>deck</label>
 </gamezone>
+
 <gamezone>
 	<label>creaturezone</label>
-<visibletoowner>yes</visibletoowner>
+	<visibletoowner>yes</visibletoowner>
 </gamezone>
+
 <gamezone>
 	<label>creaturegrave</label>
-<visibletoowner>yes</visibletoowner>
+	<visibletoowner>yes</visibletoowner>
 </gamezone>
+
 <gamezone>
 	<label>supportgrave</label>
-<visibletoowner>yes</visibletoowner>
+	<visibletoowner>yes</visibletoowner>
 </gamezone>
+
 <phase>
 	<label>creaturephase</label>
 </phase>
@@ -37,64 +45,85 @@
 <phase>
 	<label>playphase</label>
 </phase>
+
 <generalfunction>
 	<label>draw</label>
-<kind>DRAWCARD</kind>
-<includeasbutton>yes</includeasbutton>
+	<kind>DRAWCARD</kind>
+	<includeasbutton>yes</includeasbutton>
 	<label>previousphase</label>
-<kind>PREVIOUSPHASE</kind>
-<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+<generalfunction>
+	<kind>PREVIOUSPHASE</kind>
+	<includeasbutton>yes</includeasbutton>
 	<label>nextphase</label>
-<kind>NEXTPHASE</kind>
-<includeasbutton>yes</includeasbutton>
+	<kind>NEXTPHASE</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>	
+	
+<generalfunction>
 	<label>previousturn</label>
-<kind>PREVIOUSTURN</kind>
-<includeasbutton>yes</includeasbutton>	
+	<kind>PREVIOUSTURN</kind>
+	<includeasbutton>yes</includeasbutton>	
 	<label>nextturn</label> <kind>NEXTTURN</kind> <includeasbutton>yes</includeasbutton>
+</generalfunction>
+
 <cardfunction>
 	<label>playcounter+1</label>
-<kind>ADDCOUNTER</kind> <color>black</color> <textoverimagecolor>FFFFFF</textoverimagecolor> <PositionX>1</PosititionX> <PositionY>1</PositionY>
+	<kind>ADDCOUNTER</kind> <color>black</color> <textoverimagecolor>FFFFFF</textoverimagecolor> <PositionX>1</PosititionX> <PositionY>1</PositionY>
 </cardfunction>
+
 <cardfunction>
 	<label>boostcounter+1</label>
-<kind>ADDCOUNTER</kind> <color>yellow</color> <PositionX>.5</PosititionX> <PositionY>.7</PositionY>
+	<kind>ADDCOUNTER</kind> <color>yellow</color> <PositionX>.5</PosititionX> <PositionY>.7</PositionY>
 </cardfunction>
+
 <cardfunction>
 	<label>healthcounter+1</label>
-<kind>ADDCOUNTER</kind> <color>white</color> <PositionX>1</PosititionX> <PositionY>0</PositionY>
+	<kind>ADDCOUNTER</kind> <color>white</color> <PositionX>1</PosititionX> <PositionY>0</PositionY>
 </cardfunction>
+
 <cardfunction>
 	<label>defensecounter+1</label>
-<kind>ADDCOUNTER</kind> <color>blue</color> <PositionX>0</PosititionX> <PositionY>0</PositionY>
+	<kind>ADDCOUNTER</kind> <color>blue</color> <PositionX>0</PosititionX> <PositionY>0</PositionY>
 </cardfunction>
+
 <cardfunction>
 	<label>negatecounter+1</label>
-<kind>ADDCOUNTER</kind> <color>red</color> <PositionX>0</PosititionX> <PositionY>1</PositionY>
+	<kind>ADDCOUNTER</kind> <color>red</color> <PositionX>0</PosititionX> <PositionY>1</PositionY>
+
 </cardfunction>
+
 <cardfunction>
 	<label>playcounter-1</label>
-<kind>REMOVECOUNTER</kind> <color>black</color>
+	<kind>REMOVECOUNTER</kind> <color>black</color>
 </cardfunction>
+
 <cardfunction>
 	<label>boostcounter-1</label>
-<kind>REMOVECOUNTER</kind> <color>yellow</color>
+	<kind>REMOVECOUNTER</kind> <color>yellow</color>
 </cardfunction>
+
 <cardfunction>
 	<label>healthcounter-1</label>
-<kind>REMOVECOUNTER</kind> <color>white</color>
+	<kind>REMOVECOUNTER</kind> <color>white</color>
 </cardfunction>
+
 <cardfunction>
 	<label>defensecounter-1</label>
-<kind>REMOVECOUNTER</kind> <color>blue</color>
+	<kind>REMOVECOUNTER</kind> <color>blue</color>
 </cardfunction>
+
 <cardfunction>
 	<label>negatecounter-1</label>
-<kind>ADDCOUNTER</kind> <color>red</color>
+	<kind>ADDCOUNTER</kind> <color>red</color>
 </cardfunction>
+
 <cardfunction>
 	<label>clear</label> <kind>CLEARCARD</kind>
 </cardfunction>
 
-</generalfunction>
-
+<definition>
+	<kind>ISALLOWINGMULTIPLECARDBACKS</kind>
+</definition>
 </plugin>
