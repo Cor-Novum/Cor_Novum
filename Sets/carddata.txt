@@ -178,7 +178,7 @@ Passover	Expansion_Packs	Passover
 Resurrection	Expansion_Packs	Resurrection
 Crown of Thorns	Expansion_Packs	Crown_of_Thorns
 Appearance	Expansion_Packs	Appearance
-Amos, Prophet	Expansion_Packs	Amos,_Prophet
+Amos, Prophet	Expansion_Packs	Amos_Prophet
 Angel Army	Expansion_Packs	Angel_Army
 Through it All	Expansion_Packs	Through_it_All
 Sustenance	Expansion_Packs	Sustenance
