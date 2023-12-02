@@ -1,0 +1,190 @@
+Name	Set	ImageFile
+Samson	Fight_Deck	Samson
+Centurion	Fight_Deck	Centurion
+Jacob	Fight_Deck	Jacob
+Goliath	Fight_Deck	Goliath
+Giant	Fight_Deck	Giant
+Crop Burn	Fight_Deck	Crop_Burn
+Touch of Fire	Fight_Deck	Touch_of_Fire
+Incense	Fight_Deck	Incense
+Fox Fire	Fight_Deck	Fox_Fire
+Tongue of Fire	Fight_Deck	Tongue_of_Fire
+Honey Drip	Fight_Deck	Honey_Drip
+Shining Light	Fight_Deck	Shining_Light
+Babel	Fight_Deck	Babel
+Constellation	Fight_Deck	Constellation
+The Star	Fight_Deck	The_Star
+Melon	Fight_Deck	Melon
+Palm Leaves	Fight_Deck	Palm_Leaves
+Harvest	Fight_Deck	Harvest
+Dew	Fight_Deck	Dew
+Grape Vine	Fight_Deck	Grape_Vine
+Baptism	Fight_Deck	Baptism
+Righteous Tears	Fight_Deck	Righteous_Tears
+Wash Water	Fight_Deck	Wash_Water
+Jaw Bone Springs	Fight_Deck	Jaw_Bone_Springs
+Sea Crash	Fight_Deck	Sea_Crash
+Noah	Ancients_Deck	Noah
+Enoch	Ancients_Deck	Enoch
+Moses	Ancients_Deck	Moses
+David	Ancients_Deck	David
+Joseph	Ancients_Deck	Joseph
+Burning Bush	Ancients_Deck	Burning_Bush
+Burning Bush	Ancients_Deck	Burning_Bush
+Pillar of Fire	Ancients_Deck	Pillar_of_Fire
+Firenado	Ancients_Deck	Firenado
+Heat Wave	Ancients_Deck	Heat_Wave
+Covenant Ark	Ancients_Deck	Covenant_Ark
+Menorah	Ancients_Deck	Menorah
+Shekinah	Ancients_Deck	Shekinah
+Luminous Dove	Ancients_Deck	Luminous_Dove
+Helios	Ancients_Deck	Helios
+Manna	Ancients_Deck	Manna
+Bulrushes	Ancients_Deck	Bulrushes
+Olive Branch	Ancients_Deck	Olive_Branch
+Wicker	Ancients_Deck	Wicker
+Shepard's Staff	Ancients_Deck	Shepard's_Staff
+Red Sea	Ancients_Deck	Red_Sea
+Cleanse	Ancients_Deck	Cleanse
+Rainbow	Ancients_Deck	Rainbow
+Rock Water	Ancients_Deck	Rock_Water
+Flood Waters	Ancients_Deck	Flood_Waters
+Behemoth	Natural_Deck	Behemoth
+Leviathan	Natural_Deck	Leviathan
+Sea Beast	Natural_Deck	Sea_Beast
+Scorpus	Natural_Deck	Scorpus
+Carcass	Natural_Deck	Carcass
+Flaming Chariot	Natural_Deck	Flaming_Chariot
+FurnoQuake	Natural_Deck	FurnoQuake
+Eruption	Natural_Deck	Eruption
+Meteor Shower	Natural_Deck	Meteor_Shower
+Fiery Furnace	Natural_Deck	Fiery_Furnace
+Golden Statue	Natural_Deck	Golden_Statue
+Pyramid	Natural_Deck	Pyramid
+Crown	Natural_Deck	Crown
+Gold Coin	Natural_Deck	Gold_Coin
+Lightning Strike	Natural_Deck	Lightning_Strike
+Lily of the Valley	Natural_Deck	Lily_of_the_Valley
+Cedars	Natural_Deck	Cedars
+Spices	Natural_Deck	Spices
+Rose of Sharon	Natural_Deck	Rose_of_Sharon
+Gourd	Natural_Deck	Gourd
+Geyser	Natural_Deck	Geyser
+Water Walk	Natural_Deck	Water_Walk
+Death Water	Natural_Deck	Death_Water
+Stormy Sea	Natural_Deck	Stormy_Sea
+The Well	Natural_Deck	The_Well
+Michael	Angel_Deck	Michael
+Cherubim	Angel_Deck	Cherubim
+Seraphim	Angel_Deck	Seraphim
+Leopard	Angel_Deck	Leopard
+Gabriel	Angel_Deck	Gabriel
+Furno Sword	Angel_Deck	Furno_Sword
+Candle Stick	Angel_Deck	Candle_Stick
+Hidden Torch	Angel_Deck	Hidden_Torch
+Lake of Fire	Angel_Deck	Lake_of_Fire
+Meteorite	Angel_Deck	Meteorite
+First Light	Angel_Deck	First_Light
+Halo	Angel_Deck	Halo
+Angel Wing	Angel_Deck	Angel_Wing
+Angel Sword	Angel_Deck	Angel_Sword
+Golden Road	Angel_Deck	Golden_Road
+Good Fruit	Angel_Deck	Good_Fruit
+Fig Tree	Angel_Deck	Fig_Tree
+Fig Leaf	Angel_Deck	Fig_Leaf
+Tree of Life	Angel_Deck	Tree_of_Life
+Eden	Angel_Deck	Eden
+Roaring Water	Angel_Deck	Roaring_Water
+Tsunami	Angel_Deck	Tsunami
+Thunderstorm	Angel_Deck	Thunderstorm
+Water to Blood	Angel_Deck	Water_to_Blood
+River of Eden	Angel_Deck	River_of_Eden
+Elisha	Uncommon	Elisha
+Heiress	Uncommon	Heiress
+John the Baptist	Uncommon	John_the_Baptist
+Ruth	Uncommon	Ruth
+King Saul	Uncommon	King_Saul
+Brazen Serpent	Uncommon	Brazen_Serpent
+Mary	Uncommon	Mary
+Swine	Uncommon	Swine
+The Ant	Uncommon	The_Ant
+Uriah	Uncommon	Uriah
+Frog Plague	Uncommon	Frog_Plague
+Lamb Eunuch	Uncommon	Lamb_Eunuch
+Simon Peter	Uncommon	Simon_Peter
+Paul	Uncommon	Paul
+Golden Ox	Uncommon	Golden_Ox
+Abraham	Uncommon	Abraham
+Solomon	Uncommon	Solomon
+Raven	Uncommon	Raven
+Daniel	Uncommon	Daniel
+Scarlet	Uncommon	Scarlet
+Pillar of Smoke	Uncommon	Pillar_of_Smoke
+Rock Fire	Uncommon	Rock_Fire
+Bowl of Stew	Uncommon	Bowl_of_Stew
+Blood Moon	Uncommon	Blood_Moon
+Trumpet	Uncommon	Trumpet
+Anointing Oil	Uncommon	Anointing_Oil
+Loot	Uncommon	Loot
+Mustard Seed	Uncommon	Mustard_Seed
+Manger	Uncommon	Manger
+Hanging Gardens	Uncommon	Hanging_Gardens
+Wayside	Uncommon	Wayside
+Flax	Uncommon	Flax
+Seven Withs	Uncommon	Seven_Withs
+Fish Loaves	Uncommon	Fish_Loaves
+Optic Mud	Uncommon	Optic_Mud
+Broken Net	Uncommon	Broken_Net
+Water to Wine	Uncommon	Water_to_Wine
+Snowfall	Uncommon	Snowfall
+Upper Ice	Uncommon	Upper_Ice
+Aaron	Rare	Aaron
+Second Row	Rare	Second_Row
+Ligure	Rare	Ligure
+Sardius	Rare	Sardius
+Carbuncle	Rare	Carbuncle
+Jasper	Rare	Jasper
+Breastplate	Rare	Breastplate
+Fourth Row	Rare	Fourth_Row
+Diamond	Rare	Diamond
+Agate	Rare	Agate
+Topaz	Rare	Topaz
+Crown of Aaron	Rare	Crown_of_Aaron
+Ephod	Rare	Ephod
+Third Row	Rare	Third_Row
+Emerald	Rare	Emerald
+Beryl	Rare	Beryl
+Priestly Robe	Rare	Priestly_Robe
+First Row	Rare	First_Row
+Sapphire	Rare	Sapphire
+Onyx	Rare	Onyx
+Amethyst	Rare	Amethyst
+Massive Drought	Tournament_Cards	Massive_Drought
+Sovereign Sight	Tournament_Cards	Sovereign_Sight
+Meat of Health	Tournament_Cards	Meat_of_Health
+Wrath Water	Tournament_Cards	Wrath_Water
+Azariah	Tournament_Cards	Azariah
+Mishael	Tournament_Cards	Mishael
+Hananiah	Tournament_Cards	Hananiah
+Nebuchadnezzar	Tournament_Cards	Nebuchadnezzar
+Tubalcain	Expansion_Packs	Tubalcain
+Stoning	Expansion_Packs	Stoning
+Handwritten	Expansion_Packs	Handwritten
+Millstone	Expansion_Packs	Millstone
+Living Water	Expansion_Packs	Living_Water
+Angel of Death	Expansion_Packs	Angel_of_Death
+Passover	Expansion_Packs	Passover
+Resurection	Expansion_Packs	Resurection
+Crown of Thorns	Expansion_Packs	Crown_of_Thorns
+Appearance	Expansion_Packs	Appearance
+Amos, Prophet	Expansion_Packs	Amos,_Prophet
+Angel Army	Expansion_Packs	Angel_Army
+Through it All	Expansion_Packs	Through_it_All
+Sustenance	Expansion_Packs	Sustenance
+Espionage	Expansion_Packs	Espionage
+Tanyr the Dragon	Expansion_Packs	Tanyr_the_Dragon
+Unjust Scourge	Expansion_Packs	Unjust_Scourge
+Broken Tablets	Expansion_Packs	Broken_Tablets
+Honey Locust	Expansion_Packs	Honey_Locust
+Oversized Armor	Expansion_Packs	Oversized_Armor
+Joseph's cost	Champion_Card	Joseph's_cost
