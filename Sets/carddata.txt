@@ -8,7 +8,7 @@ Crop Burn	Fight_Deck	Crop_Burn
 Touch of Fire	Fight_Deck	Touch_of_Fire
 Incense	Fight_Deck	Incense
 Fox Fire	Fight_Deck	Fox_Fire
-Tongue of Fire	Fight_Deck	Tongue_of_Fire
+Tongue of Fire	Fight_Deck	Tongue_of_fire
 Honey Drip	Fight_Deck	Honey_Drip
 Shining Light	Fight_Deck	Shining_Light
 Babel	Fight_Deck	Babel
@@ -30,9 +30,9 @@ Moses	Ancients_Deck	Moses
 David	Ancients_Deck	David
 Joseph	Ancients_Deck	Joseph
 Burning Bush	Ancients_Deck	Burning_Bush
-Burning Bush	Ancients_Deck	Burning_Bush
+Burnt Offering	Ancients_Deck	Burnt_Offering
 Pillar of Fire	Ancients_Deck	Pillar_of_Fire
-Firenado	Ancients_Deck	Firenado
+Firenado	Ancients_Deck	FireNado
 Heat Wave	Ancients_Deck	Heat_Wave
 Covenant Ark	Ancients_Deck	Covenant_Ark
 Menorah	Ancients_Deck	Menorah
@@ -180,7 +180,7 @@ Crown of Thorns	Expansion_Packs	Crown_of_Thorns
 Appearance	Expansion_Packs	Appearance
 Amos, Prophet	Expansion_Packs	Amos_Prophet
 Angel Army	Expansion_Packs	Angel_Army
-Through it All	Expansion_Packs	Through_it_All
+Through it All	Expansion_Packs	Through_It_All
 Sustenance	Expansion_Packs	Sustenance
 Espionage	Expansion_Packs	Espionage
 Tanyr the Dragon	Expansion_Packs	Tanyr_the_Dragon

@@ -1,6 +1,6 @@
 cor_novum	12-01-23
-plugins/cor_novum/plugininfo.txt	https://raw.githubusercontent.com/Cor-Novum/Cor_Novum/main/plugininfo.txt	245597
-plugins/cor_novum/sets/carddata.txt	https://raw.githubusercontent.com/Cor-Novum/Cor_Novum/main/Sets/carddata.txt	555732
+plugins/cor_novum/plugininfo.txt	https://raw.githubusercontent.com/Cor-Novum/Cor_Novum/main/plugininfo.txt	250939
+plugins/cor_novum/sets/carddata.txt	https://raw.githubusercontent.com/Cor-Novum/Cor_Novum/main/Sets/carddata.txt	556124
 plugins/cor_novum/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/Cor-Novum/Cor_Novum/main/Sets/SetImages/General/CardBack.jpg	-136279
 CardGeneralURLs:
 https://raw.githubusercontent.com/Cor-Novum/Cor_Novum/main/Images/
