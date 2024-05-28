@@ -202,7 +202,7 @@ Harvest	Apocalypse	CardHarvest
 Lafe of Fire	Apocalypse	CardLakeofFire
 Leaves of Life	Apocalypse	CardLeavesofLife
 Lock and Key	Apocalypse	CardLockandKey
-Meteorite	Apocalypse	CarMeteorite
+Meteorite	Apocalypse	CardMeteorite
 The Star	Apocalypse	CardTheStar
 Thousand Chains	Apocalypse	CardThousandChains
 Tsunami	Apocalypse	CardTsunami
