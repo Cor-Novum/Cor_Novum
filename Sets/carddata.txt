@@ -5,7 +5,7 @@ Jacob	Fight_Deck	Jacob
 Goliath	Fight_Deck	Goliath
 Giant	Fight_Deck	Giant
 Crop Burn	Fight_Deck	Crop_Burn
-Touch of Fire	Fight_Deck	Touch_of_Fire
+Touch of Fire	Fight_Deck	Touch_Of_Fire
 Incense	Fight_Deck	Incense
 Fox Fire	Fight_Deck	Fox_Fire
 Tongue of Fire	Fight_Deck	Tongue_of_fire
@@ -167,7 +167,7 @@ Wrath Water	Tournament_Cards	Wrath_Water
 Azariah	Tournament_Cards	Azariah
 Mishael	Tournament_Cards	Mishael
 Hananiah	Tournament_Cards	Hananiah
-Nebuchadnezzar	Tournament_Cards	Nebuchadnezzar_K, Nebuchadnezzar_F
+Nebuchadnezzar	Tournament_Cards	Nebuchadnezzar_K,Nebuchadnezzar_F
 Tubalcain	Expansion_Packs	Tubalcain
 Stoning	Expansion_Packs	Stoning
 Handwritten	Expansion_Packs	Handwritten
