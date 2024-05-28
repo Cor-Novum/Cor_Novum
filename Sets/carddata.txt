@@ -189,3 +189,28 @@ Broken Tablets	Expansion_Packs	Broken_Tablets
 Honey Locust	Expansion_Packs	Honey_Locust
 Oversized Armor	Expansion_Packs	Oversized_Armor
 Joseph's Coat	Champion_Card	Josephs_Coat
+Bitter Book	Apocalypse	CardBitterBook
+Blood Ocean	Apocalypse	CardBloodOcean
+Dew	Apocalypse	CardDew
+Double Edged	Apocalypse	CardDoubleEdged
+Euphrates Angels	Apocalypse	CardEuphratesAngels
+Falling Darkness	Apocalypse	CardFallingDarkness
+Fatal Restartion	Apocalypse	CardFatalRestoration
+Golden Road	Apocalypse	CardGoldenRoad
+Hail Fire	Apocalypse	CardHailFire
+Harvest	Apocalypse	CardHarvest
+Lafe of Fire	Apocalypse	CardLakeofFire
+Leaves of Life	Apocalypse	CardLeavesofLife
+Lock and Key	Apocalypse	CardLockandKey
+Meteorite	Apocalypse	CarMeteorite
+The Star	Apocalypse	CardTheStar
+Thousand Chains	Apocalypse	CardThousandChains
+Tsunami	Apocalypse	CardTsunami
+Water to Blood	Apocalypse	CardWatertoBlood
+Wormwood	Apocalypse	CardWormwood
+Celeste	Apocalypse	CelesteCard
+Counterfeit	Apocalypse	Counterfeit01
+Death	Apocalypse	DeathCard
+Fame	Apocalypse	FamineCard
+Pestilence	Apocalypse	PestilenceCard
+War	Apocalypse	WarCard
