@@ -214,3 +214,28 @@ Death	Apocalypse	DeathCard
 Fame	Apocalypse	FamineCard
 Pestilence	Apocalypse	PestilenceCard
 War	Apocalypse	WarCard
+All But One	Creation	CardAllButOne
+Dominion	Creation	CardDominion
+Abel	Creation	AbelCard
+Cain	Creation	CainCard
+Adam	Creation	CardAdam
+Babel	Creation	CardBabel
+Earth and Sea	Creation	CardEarthandSea
+Eve	Creation	CardEve
+Fig Leaf	Creation	CardFigLeaf
+First Rain	Creation	CardFirstRain
+Flood Waters	Creation	CardFloodWaters
+Furno Sword	Creation	CardFurnoSword
+Geyser	Creation	CardGeyser
+Green Herb	Creation	CardGreenHerb
+Hard Labor	Creation	CardHardLabor
+Harp of Origin	Creation	CardHarpofOrigin
+Knowledge Burden	Creation	CardKnowledgeBurden
+Limited Harvest	Creation	CardLimitedHarvest
+Meteor Shower	Creation	CardMeteorShower
+Morning Mist	Creation	CardMorningMist
+Second Vengeance	Creation	CardSecondVengeance
+Tree of Life	Creation	CardTreeofLife
+Vengeance	Creation	CardVengeance
+First Light	Creation	FirstLightCard
+Seth	Creation	SethCard
